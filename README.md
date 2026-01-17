@@ -5,7 +5,7 @@
        width="400"
        height="500" />
 </div>
-<h2 align="center">A passionate DevOps Engineer from India</h3>
+<h2 align="center">A passionate DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavitdeepakmehta&label=Profile%20views&color=0e75b6&style=flat" alt="kavitdeepakmehta" /> </p>
 
