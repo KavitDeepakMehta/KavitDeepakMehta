@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavitdeepakmehta&label=Profile%20views&color=0e75b6&style=flat" alt="kavitdeepakmehta" /> </p>
 
-- 🔭 I’m currently working on **Cloud Native Projects**
+- <img src="https://github.com/KavitDeepakMehta/KavitDeepakMehta/blob/main/assets/Telescope.gif" width="29px"> I’m currently working on **Cloud Native Projects**
 
 - 🌱 I’m currently learning **Docker, Kubernetes and Monitoring Tools**
 
