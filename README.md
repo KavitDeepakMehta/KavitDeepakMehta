@@ -1,11 +1,14 @@
 <h1 align="center">Hi Techies <img src="https://github.com/KavitDeepakMehta/KavitDeepakMehta/blob/main/assets/Hi.gif" width="29px">, I'm Kavit Mehta</h1>
-<div align="center">
-  <img src="https://github.com/KavitDeepakMehta/KavitDeepakMehta/blob/main/assets/Learning.gif"
-       alt="Learning"
-       width="400"
-       height="500" />
-</div>
-<h2 align="center">A passionate DevOps Engineer</h3>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img src="https://github.com/KavitDeepakMehta/KavitDeepakMehta/blob/main/assets/Learning.gif"
+           width="350"
+           height="350" />
+    </td>
+  </tr>
+</table>
+<h2 align="center">A passionate DevOps Engineer <img src="https://github.com/KavitDeepakMehta/KavitDeepakMehta/blob/main/assets/Screens.gif" width="29px"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavitdeepakmehta&label=Profile%20views&color=0e75b6&style=flat" alt="kavitdeepakmehta" /> </p>
 
