@@ -18,11 +18,11 @@
 
 - <img src="https://github.com/KavitDeepakMehta/KavitDeepakMehta/blob/main/assets/Handshake.gif" width="29px"> I’m looking for help with **DevSecOps**
 
-- <img src="https://github.com/KavitDeepakMehta/KavitDeepakMehta/blob/main/assets/Projects.gif" width="29px"> All of my projects are available at [https://github.com/KavitDeepakMehta](https://github.com/KavitDeepakMehta)
+- <img src="https://github.com/KavitDeepakMehta/KavitDeepakMehta/blob/main/assets/Projects.gif" width="29px"> All of my projects are available at [Medium](https://medium.com/@kavitdeepakmehta)
 
 - <img src="https://github.com/KavitDeepakMehta/KavitDeepakMehta/blob/main/assets/Message.gif" width="29px"> Ask me about **DevOps and Cloud**
 
-- <img src="https://github.com/KavitDeepakMehta/KavitDeepakMehta/blob/main/assets/Mail.gif" width="29px"> How to reach me **kdmehta141103@gmail.com**
+- <img src="https://github.com/KavitDeepakMehta/KavitDeepakMehta/blob/main/assets/Mail.gif" width="29px"> Reach me at [Gmail](kdmehta141103@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
