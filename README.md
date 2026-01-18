@@ -14,15 +14,15 @@
 
 - <img src="https://github.com/KavitDeepakMehta/KavitDeepakMehta/blob/main/assets/Telescope.gif" width="29px"> I’m currently working on **Cloud Native Projects**
 
-- 🌱 I’m currently learning **Docker, Kubernetes and Monitoring Tools**
+- <img src="https://github.com/KavitDeepakMehta/KavitDeepakMehta/blob/main/assets/Plant.gif" width="29px"> I’m currently learning **Docker, Kubernetes and Monitoring Tools**
 
-- 🤝 I’m looking for help with **DevSecOps**
+- <img src="https://github.com/KavitDeepakMehta/KavitDeepakMehta/blob/main/assets/Handshake.gif" width="29px"> I’m looking for help with **DevSecOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KavitDeepakMehta](https://github.com/KavitDeepakMehta)
+- <img src="https://github.com/KavitDeepakMehta/KavitDeepakMehta/blob/main/assets/Projects.gif" width="29px"> All of my projects are available at [https://github.com/KavitDeepakMehta](https://github.com/KavitDeepakMehta)
 
-- 💬 Ask me about **DevOps and Cloud**
+- <img src="https://github.com/KavitDeepakMehta/KavitDeepakMehta/blob/main/assets/Message.gif" width="29px"> Ask me about **DevOps and Cloud**
 
-- 📫 How to reach me **kdmehta141103@gmail.com**
+- <img src="https://github.com/KavitDeepakMehta/KavitDeepakMehta/blob/main/assets/Mail.gif" width="29px"> How to reach me **kdmehta141103@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,12 +44,14 @@
 
 <h3 align="left">GitHub Streak:</h3>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=KavitDeepakMehta&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=KavitDeepakMehta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KavitDeepakMehta&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KavitDeepakMehta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h3 align="left">GitHub Contribution:</h3>
 
 ###
 ![snake gif](https://github.com/KavitDeepakMehta/KavitDeepakMehta/blob/output/github-snake-dark.svg)
 ###
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
